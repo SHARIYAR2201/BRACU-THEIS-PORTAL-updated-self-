@@ -1,89 +1,109 @@
-# 🎓 BRACU Research Thesis Management Portal 
+# 🎓 BRACU Research Thesis Management Portal
 
-> **A full-stack application containing both the Frontend client and Backend API server designed to automate the entire thesis workflow at BRAC University.**
+> A full-stack web platform for managing the thesis and research workflow of BRAC University from a centralized interface.
 
 ---
 
 ## 📌 Project Overview
 
-This repository holds the complete codebase for the **BRACU Research Thesis Management System**. It streamlines proposal submission, evaluation, announcements, meeting scheduling, and thesis archiving for **Students**, **Supervisors**, and **Admins**.
+The **BRACU Research Thesis Management System** provides a shared platform for **Students, Supervisors, and Administrators** to manage major stages of the thesis process.
 
-* **Frontend Client (Vite + React)**: Accessible under `BRACU-Research-Thesis-client-main/`
-* **Backend Server (Express + MongoDB)**: Accessible under `BRACU-Research-server-main/`
+The system supports research proposal submission, thesis-group coordination, academic paper discovery, supervision meetings, feedback, announcements, semester management, and supervisor allocation.
 
----
+### Main Applications
 
-## 🚀 Live Demo & Repository Links
-
-* 🖥️ **Live Client App**: [https://bracu-research-connect.web.app](https://bracu-research-connect.web.app) (Firebase Hosting)
-* ⚙️ **Live Backend API**: [https://bracu-research-server-eta.vercel.app](https://bracu-research-server-eta.vercel.app)
-* 📂 **GitHub Repository**: [https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal](https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal)
+- **Frontend:** `BRACU-Research-Thesis-client-main/`
+- **Backend:** `BRACU-Research-server-main/`
 
 ---
 
-## 🏗️ Repository Architecture & Directories
+## 🚀 Live Services
+
+- 🖥️ **Client Application:** https://bracu-research-connect.web.app
+- ⚙️ **Backend API:** https://bracu-research-server-eta.vercel.app
+- 📂 **GitHub Repository:** https://github.com/IFTI-KAR/BRAC-University-Thesis-Portal
+
+---
+
+## 🏗️ Repository Structure
 
 ```text
 BRAC-University-Thesis-Portal/
-├── BRACU-Research-Thesis-client-main/  # React + Vite Client App
-│   ├── public/                         # Static Assets & Logos
-│   ├── src/                            # Component Source Code
-│   │   ├── components/                 # Reusable UI Controls
-│   │   ├── contexts/                   # Auth & User Context Providers
-│   │   ├── layouts/                    # Root Page Layout
-│   │   ├── pages/                      # Role-specific Views & Dashboards
-│   │   └── routers/                    # Router Configuration
-│   ├── package.json                    # Dependencies & Run Scripts
-│   └── vercel.json                     # Vercel SPA Routing Configuration
+├── BRACU-Research-Thesis-client-main/
+│   ├── public/                         # Static resources and branding
+│   ├── src/
+│   │   ├── components/                 # Shared React components
+│   │   ├── contexts/                   # Authentication and user contexts
+│   │   ├── layouts/                    # Application layouts
+│   │   ├── pages/                      # Pages and role-based dashboards
+│   │   └── routers/                    # Routing configuration
+│   ├── package.json                    # Client dependencies and scripts
+│   └── vercel.json                     # SPA deployment configuration
 │
-├── BRACU-Research-server-main/         # Express.js Server
-│   ├── index.js                        # API Gateway & Endpoints
-│   ├── package.json                    # Server Dependencies
-│   └── vercel.json                     # Vercel Serverless Function Config
+├── BRACU-Research-server-main/
+│   ├── index.js                        # Express server and API endpoints
+│   ├── package.json                    # Server dependencies and scripts
+│   └── vercel.json                     # Server deployment configuration
 │
-└── .gitignore                          # Monorepo-level gitignore
+└── .gitignore                          # Git ignore rules
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Stack
 
-| Component | Technologies Used |
+| Area | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js (v19), React Router v7, Tailwind CSS, DaisyUI v5, Context API, Lucide Icons |
+| **Frontend** | React.js 19, React Router 7, Tailwind CSS, DaisyUI 5, Context API, Lucide Icons |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB Atlas |
 | **Authentication** | Firebase Authentication |
-| **APIs** | arXiv API (for academic paper lookup) |
-| **Deployment** | Firebase Hosting (Client) & Vercel (Server / Client) |
+| **External API** | arXiv API |
+| **Deployment** | Firebase Hosting and Vercel |
 
 ---
 
-## 🧑‍💻 Installation & Local Running Guide
+## 🧑‍💻 Local Development Setup
 
-To run the full-stack portal locally, you need to spin up both the frontend client and the backend server.
+The frontend and backend are separate applications, so both need to be configured and started during local development.
 
-### **1. Setup and Run the Server**
-Navigate to the server directory, install dependencies, and run:
+### 1. Backend Setup
+
+Open a terminal and enter the server directory:
+
 ```bash
 cd BRACU-Research-server-main
 npm install
 npm start
 ```
-Make sure to configure the environment variables in `BRACU-Research-server-main/.env`:
+
+Create the following file:
+
+`BRACU-Research-server-main/.env`
+
 ```env
 DB_USER=your_mongodb_username
 DB_PASS=your_mongodb_password
 ```
 
-### **2. Setup and Run the Client**
-In a new terminal window, navigate to the client directory, install dependencies, and run the development server:
+Do not commit the `.env` file to Git.
+
+---
+
+### 2. Frontend Setup
+
+Open a second terminal and enter the client directory:
+
 ```bash
 cd BRACU-Research-Thesis-client-main
 npm install
 npm run dev
 ```
-Make sure to configure the environment variables in `BRACU-Research-Thesis-client-main/.env`:
+
+Create/configure:
+
+`BRACU-Research-Thesis-client-main/.env`
+
 ```env
 VITE_FIREBASE_API_KEY=your_firebase_api_key
 VITE_FIREBASE_AUTH_DOMAIN=bracu-research-connect.firebaseapp.com
@@ -93,30 +113,67 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 ```
 
+### 🔐 Environment Variable Security
+
+Never place real API keys, passwords, tokens, or other credentials directly inside source files or the README.
+
+Use environment variables instead, and make sure local environment files are excluded through `.gitignore`.
+
+Example:
+
+```gitignore
+.env
+.env.*
+!.env.example
+```
+
+If a credential has already been committed to GitHub, removing it from the latest version of the file is **not enough**. The exposed credential should be revoked/rotated, and the old value should be removed from Git history when necessary.
+
 ---
 
-## 🔒 Role-Based Key Features
+## 🔒 Features by User Role
 
-### 👨‍🎓 Student Features
-* **Thesis Groups**: Form groups of 1–5 members, send invites, and manage teammates.
-* **Proposals**: Submit research proposals to faculty with abstract, domain, and file attachments.
-* **arXiv Integration**: Search, bookmark, and save arXiv papers directly inside the portal.
-* **Meeting Manager**: View scheduled supervision meetings.
+### 👨‍🎓 Student
 
-### 👨‍🏫 Supervisor Features
-* **Group Management**: Accept/reject thesis group proposals.
-* **arXiv Recommendations**: Recommend relevant papers directly to assigned student groups.
-* **Scheduler**: Schedule progress evaluation sessions and meetings.
-* **Feedback System**: Provide detailed written feedback on submissions.
+- **Thesis Groups:** Create groups containing 1–5 members, invite students, and manage group membership.
+- **Research Proposals:** Submit proposals containing an abstract, research domain, and supporting files.
+- **arXiv Search:** Find academic papers through the integrated arXiv service.
+- **Bookmarks:** Save relevant research papers for later use.
+- **Meeting Manager:** View scheduled thesis-supervision meetings.
 
-### 🛡️ Admin Features
-* **Semester Setup**: Manage deadlines, track thesis progress milestones, and start new semesters.
-* **Supervisor Matching**: Manually assign/allocate supervisors to thesis groups.
-* **Announcements**: Publish global announcements to notify all students and supervisors.
-* **User Management**: Search, promote, or deprecate roles (Student, Supervisor, Admin).
+### 👨‍🏫 Supervisor
+
+- **Group Review:** Accept or reject thesis-group proposals.
+- **Research Recommendations:** Share relevant arXiv papers with assigned student groups.
+- **Meeting Scheduler:** Arrange progress evaluations and supervision sessions.
+- **Feedback:** Provide written feedback on student submissions.
+
+### 🛡️ Administrator
+
+- **Semester Management:** Configure deadlines, monitor thesis milestones, and initiate new semesters.
+- **Supervisor Assignment:** Allocate supervisors to thesis groups.
+- **Announcements:** Publish announcements for students and supervisors.
+- **User Management:** Search users and manage Student, Supervisor, and Admin roles.
+
+---
+
+## 🔐 Security Notice
+
+This repository should contain **configuration templates rather than real credentials**.
+
+If GitHub reports a detected secret:
+
+1. Treat the exposed credential as compromised.
+2. Revoke or rotate the affected API key immediately.
+3. Replace the credential with an environment variable.
+4. Remove the secret from the repository's Git history if required.
+5. Push the cleaned history to GitHub.
+6. Re-scan the repository and close the GitHub secret-scanning alert after remediation.
 
 ---
 
 ## 📄 License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) (if present) or subdirectories for more details.
+This project is distributed under the **MIT License**.
+
+See the `LICENSE` file for the complete license terms, if it is included in the repository.
