@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light only;
+}
+
+html, body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  width: 100%;
+  overflow-x: hidden;
+}

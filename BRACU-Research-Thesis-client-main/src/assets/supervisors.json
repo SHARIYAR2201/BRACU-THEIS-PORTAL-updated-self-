@@ -1,0 +1,1640 @@
+[
+  {
+    "name": "Md Arif Hasan [ARIF]",
+    "designation": "Lecturer",
+    "email": "arif.hasan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/510/md_arif_hasan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1053/conversions/BRACU-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ashraful Islam Shanto Sikder [ASRF]",
+    "designation": "Lecturer",
+    "email": "ashraful.islam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/507/ashraful_islam_shanto_sikder",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1034/conversions/1000007314-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Naveed Hossain [MVH]",
+    "designation": "Lecturer",
+    "email": "mohammad.naveed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/511/mohammad_naveed_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1056/conversions/Photo-of-Naveed-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nazmus Sakib Ahmed [SKIB]",
+    "designation": "Lecturer",
+    "email": "nazmus.sakib@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/509/nazmus_sakib_ahmed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1035/conversions/WhatsApp-Image-2026-01-07-at-12.01.03-AM-(1)-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Wahida Mahjabin [WHMJ]",
+    "designation": "Lecturer",
+    "email": "wahida.mahjabin@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/512/wahida_mahjabin",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1072/conversions/WhatsApp-Image-2026-06-10-at-9.56.07-PM-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Ishrak Ahsan [ISAS]",
+    "designation": "Lecturer",
+    "email": "ishrak.ahsan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/482/md_ishrak_ahsan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/959/conversions/me_formal_3_4-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mahir Labib Dihan [MLDH]",
+    "designation": "Lecturer",
+    "email": "labib.mahir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/483/mahir_labib_dihan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/961/conversions/MAHIR_LABIB_DIHAN(1)-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sakib Anwar Rieyan [SBAW]",
+    "designation": "Lecturer",
+    "email": "sakib.rieyan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/411/sakib_anwar_rieyan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/867/conversions/Screenshot-2025-04-14-041802-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Angkon Deb [AKDB]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.angkon.deb@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/492/angkon_deb",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/975/conversions/angkon_link-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Toky Tazwar [MTOT]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.toky.tazwar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/493/md_toky_tazwar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1047/conversions/rsz_img_5815-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Muhammad Abdur Rahman [ADR]",
+    "designation": "C. Senior Lecturer",
+    "email": "abdur.rahman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/148/muhammad_abdur_rahman",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ahmed Akib Jawad Karim [AJK]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.akib.jawad@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/276/ahmed_akib_jawad_karim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/514/conversions/Ahmed-Akib-Jawad-Karim-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Abdullah Khondoker [AKDR]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.abdullah@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/370/abdullah_khondoker",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/772/conversions/Abdullah-Khondoker-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ms. Anika Tasnim [ANT]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.anika.tasnim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/213/ms_anika_tasnim",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Abu Obaida Hasme [AOH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.abu.hasme@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/393/abu_obaida_hasme",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/824/conversions/Abu-Obaida-Hasme-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "A S M Nasim Khan [ASMN]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.nasim.khan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/362/a_s_m_nasim_khan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/746/conversions/IMG_0764-(1)-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. MD FARDIN RAHMAN AMI [FDM]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.fardin.rahman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/317/mr_md_fardin_rahman_ami",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/651/conversions/profile-img-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Irtiza Hossain [IRZ]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.irtiza.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/355/md_irtiza_hossain",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "MD ASIF [MAF]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.md.asif@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/336/md_asif",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/687/conversions/asif_image-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sadman Sakib Alif [CSSA]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.sadman.alif@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/445/sadman_sakib_alif",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/944/conversions/bd5a81d1-6f22-44c7-8d0e-77b90738bb25-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Monirul Haque [MLH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.monirul.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/154/monirul_haque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/165/conversions/Monirul-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mehnaz Ara Fazal [MZFZ]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.mehnaz.fazal@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/366/mehnaz_ara_fazal",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/740/conversions/IMG_0542-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Maazin Munawar [MZW]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.maazin.munawar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/361/maazin_munawar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/739/conversions/Screenshot_1-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Shamsur Shafi Nur E Aziz [CSSN]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.shamsur.aziz@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/456/md_shamsur_shafi_nur_e_aziz",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/907/conversions/pfp-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nowshin Tabassum [NWT]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.nowshin.tabassum@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/237/nowshin_tabassum",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/276/conversions/IMG-20221023-WA0002-new-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Qurratul Ayen Elma [CQAE]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.qurratul.elma@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/453/qurratul_ayen_elma",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/914/conversions/1000005565-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Rantu Das [RDS]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.rantu.das@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/364/rantu_das",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "ANIKA ISLAM [CAKM]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.anika.islam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/442/anika_islam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1032/conversions/555152511_1478897986757712_4259342320498000116_n-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sajid Imam Mahir [SJM]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.sajid.mahir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/351/sajid_imam_mahir",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/873/conversions/Adobe-Express---file-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tahsin Tanim Ramisha [THR]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.tahsin.ramisha@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/392/tahsin_tanim_ramisha",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tanjim Reza [TNZ]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.tanjim.reza@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/352/tanjim_reza",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/732/conversions/-jmnvjq_Original-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md.Waseq Alauddin Alvi [WLV]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.waseq.alvi@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/354/mdwaseq_alauddin_alvi",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/952/conversions/imresizer-1730430535595-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Aunon Halder [ANNH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.aunon.halder@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/416/aunon_halder",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nusrat Zaman Raya [CNZR]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.nusrat.raya@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/427/nusrat_zaman_raya",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/881/conversions/IMG_7322-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Dr. Sadia Hamid Kazi [SKZ]",
+    "designation": "Associate Professor & Chairperson",
+    "email": "skazi@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/180/dr_sadia_hamid_kazi",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/173/conversions/Sadia-Hamid-Kazi-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Dr. Mohammad Kaykobad [KYK]",
+    "designation": "Professor",
+    "email": "kaykobad@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/177/dr_mohammad_kaykobad",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/175/conversions/Professor-Kaykobad-thumb.png",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Chowdhury Mofizur Rahman [CMR]",
+    "designation": "Professor",
+    "email": "rahman.mofizur@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/151/dr_chowdhury_mofizur_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/787/conversions/cmr_oct24-thumb.JPG",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Md. Khalilur Rahman [KHR]",
+    "designation": "Professor",
+    "email": "khalilur@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/193/dr_md_khalilur_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/180/conversions/Dr.-Md.-Khalilur-Rhaman-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Md. Golam Rabiul Alam [GRA]",
+    "designation": "Professor",
+    "email": "rabiul.alam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/113/dr_md_golam_rabiul_alam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/179/conversions/Md.-Golam-Rabiul-Alam-CSE-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Md Sadek Ferdous [SDF]",
+    "designation": "Professor",
+    "email": "sadek.ferdous@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/22/dr_md_sadek_ferdous",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/127/conversions/MSFerdousNew-thumb.jpeg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Amitabha Chakrabarty [ACH]",
+    "designation": "Professor",
+    "email": "amitabha@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/69/dr_amitabha_chakrabarty",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/171/conversions/amitabhaSir-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Farida Chowdhury [FDC]",
+    "designation": "Professor",
+    "email": "farida.chowdhury@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/211/dr_farida_chowdhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/507/conversions/FC-thumb.jpeg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Swakkhar Shatabda [SWK]",
+    "designation": "Professor",
+    "email": "swakkhar.shatabda@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/333/dr_swakkhar_shatabda",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/668/conversions/13445786_10154162965585903_634604791187830693_n-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Taiabul Haque [TLQ]",
+    "designation": "Professor",
+    "email": "taiabul.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/204/dr_taiabul_haque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/489/conversions/haquesmtaiabul-0151-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Muhammad Nur Yanhaona [MNY]",
+    "designation": "Associate Professor",
+    "email": "nur.yanhaona@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/188/dr_muhammad_nur_yanhaona",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/238/conversions/Yan-Profile-Picture-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Dr. Md. Ashraful Alam [ASA]",
+    "designation": "Associate Professor",
+    "email": "ashraful.alam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/164/dr_md_ashraful_alam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/220/conversions/Photo_shimul-(2)-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Muhammad Iqbal Hossain [MIH]",
+    "designation": "Associate Professor",
+    "email": "iqbal.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/24/dr_muhammad_iqbal_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/945/conversions/Iqbal_CSE-2-thumb.png",
+    "status": "Not Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Farig Yousuf Sadeque [FYS]",
+    "designation": "Associate Professor",
+    "email": "farig.sadeque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/194/dr_farig_yousuf_sadeque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/251/conversions/pic1-thumb.jpeg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Md. Sakir Hossain [MSAH]",
+    "designation": "Associate Professor",
+    "email": "sakir.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/433/dr_md_sakir_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/899/conversions/MSAH-thumb.png",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dr. Aniqua Nusrat Zereen [AQZ]",
+    "designation": "Assistant Professor",
+    "email": "aniqua@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/125/dr_aniqua_nusrat_zereen",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/438/conversions/IMG_5420-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Mr. Annajiat Alim Rasel [AAR]",
+    "designation": "Senior Lecturer",
+    "email": "annajiat@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/145/mr_annajiat_alim_rasel",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/167/conversions/Annajiat-Alim-Rasel-for-bucse-v4-thumb.jpg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Mr. Moin Mostakim [MMM]",
+    "designation": "Senior Lecturer",
+    "email": "mostakim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/191/mr_moin_mostakim",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Md. Saiful Islam [MSI]",
+    "designation": "Senior Lecturer",
+    "email": "md.saiful.islam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/122/md_saiful_islam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/677/conversions/WhatsApp-Image-2024-08-19-at-7.59.02-PM-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Tawhid Anwar [TAW]",
+    "designation": "Senior Lecturer",
+    "email": "tawhid.anwar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/28/md_tawhid_anwar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/227/conversions/Tawhid_Outer_bucse-v4-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Imran Bin Azad [IBA]",
+    "designation": "Senior Lecturer",
+    "email": "imran.azad@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/78/md_imran_bin_azad",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/418/conversions/Md.-Imran-Bin-Azad-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Rubayat Ahmed Khan [RAK]",
+    "designation": "Senior Lecturer",
+    "email": "rubayat.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/112/mr_rubayat_ahmed_khan",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ms. Mehnaz Seraj [SRJ]",
+    "designation": "Senior Lecturer",
+    "email": "seraj.mehnaz@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/149/ms_mehnaz_seraj",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Najeefa Nikhat Choudhury [NNC]",
+    "designation": "Senior Lecturer",
+    "email": "najeefa.chy@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/153/najeefa_nikhat_choudhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/463/conversions/NNC_7407_2-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mahrin Tasfe [MAHR]",
+    "designation": "Senior Lecturer",
+    "email": "mahrin.tasfe@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/405/mahrin_tasfe",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1052/conversions/IMG-20250813-WA0011-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Md. Tanzim Reza [TRZ]",
+    "designation": "Senior Lecturer",
+    "email": "tanzim.reza@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/43/mr_md_tanzim_reza",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/437/conversions/308317759_805269880594504_5614694467692864607_n-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ms. Tasnim Ferdous [TNMF]",
+    "designation": "Senior Lecturer",
+    "email": "tasnim.ferdous@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/26/ms_tasnim_ferdous",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/806/conversions/Tasnim.Ferdous-thumb.jpeg",
+    "status": "Accepting",
+    "badge": ""
+  },
+  {
+    "name": "Dewan Ziaul Karim [DZK]",
+    "designation": "Senior Lecturer",
+    "email": "ziaul.karim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/63/dewan_ziaul_karim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/142/conversions/Dewan-Ziaul-Karim-CSE-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Arif Shakil [ARF]",
+    "designation": "Senior Lecturer",
+    "email": "arif.shakil@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/21/arif_shakil",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/12/conversions/185544241_10222657419097685_8218596358068594256_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Syed Zamil Hasan Shoumo [ZHS]",
+    "designation": "Senior Lecturer",
+    "email": "shoumo.hasan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/55/mr_syed_zamil_hasan_shoumo",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Rafeed Rahman [RRH]",
+    "designation": "Senior Lecturer",
+    "email": "rahman.rafeed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/62/mr_rafeed_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/814/conversions/20240920_215240_Original_Original-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Saiful Bari Siddiqui [SDQ]",
+    "designation": "Senior Lecturer",
+    "email": "saiful.bari@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/184/md_saiful_bari_siddiqui",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/493/conversions/81586264_2679374838806240_2920960876657770496_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Niaz Ashraf Khan [NZRF]",
+    "designation": "Senior Lecturer",
+    "email": "niaz.ashraf@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/409/niaz_ashraf_khan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/852/conversions/WhatsApp-Image-2025-03-29-at-10.30.46-PM-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Md. Aquib Azmain [AQU]",
+    "designation": "Senior Lecturer",
+    "email": "aquib.azmain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/93/mr_md_aquib_azmain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1046/conversions/AmbientBliss-01100-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Sabbir Ahmed [SBB]",
+    "designation": "Senior Lecturer",
+    "email": "sabbir.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/54/md_sabbir_ahmed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/849/conversions/Md.-Sabbir-Ahmed_SDS11-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Shoaib Ahmed Dipu [DPU]",
+    "designation": "Lecturer",
+    "email": "shoaib.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/34/shoaib_ahmed_dipu",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/862/conversions/DPU_v3__-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Samiur Rahman [SMUR]",
+    "designation": "Lecturer",
+    "email": "rahman.samiur@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/489/samiur_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1057/conversions/1000181921-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ahmed Mahir Ruhan [ADU]",
+    "designation": "Lecturer",
+    "email": "ahmed.ruhan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/168/ahmed_mahir_ruhan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/527/conversions/received_804100854892030-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Bijoy Ahmed Saiem [BIJS]",
+    "designation": "Lecturer",
+    "email": "bijoy.saiem@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/440/bijoy_ahmed_saiem",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/896/conversions/photo-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Afroza Akther [AFA]",
+    "designation": "Lecturer",
+    "email": "afroza.akther@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/238/afroza_akther",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/910/conversions/IMG_4432-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Nafiu Rahman [NAFR]",
+    "designation": "Lecturer",
+    "email": "nafiu.rahman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/434/md_nafiu_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/931/conversions/Picsart_25-07-16_11-31-45-661~2-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nazmus Sakib Touhid [NAST]",
+    "designation": "Lecturer",
+    "email": "nazmus.touhid@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/450/nazmus_sakib_touhid",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ittehad Saleh Chowdhury [ITTS]",
+    "designation": "Lecturer",
+    "email": "ittehad.chowdhury@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/478/ittehad_saleh_chowdhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/989/conversions/DSCF4218-(1)-(2)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Asif Haider [AHF]",
+    "designation": "Lecturer",
+    "email": "asif.haider@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/342/md_asif_haider",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/716/conversions/Pic-4-removebg4-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Ahasanul Alam [AHU]",
+    "designation": "Lecturer",
+    "email": "ahasanul.alam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/82/md_ahasanul_alam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/213/conversions/1686895519433-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Abu Ibrahim ( Iqra ) [AIB]",
+    "designation": "Lecturer",
+    "email": "abu.ibrahim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/105/md_abu_ibrahim_%28_iqra_%29",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/490/conversions/sds_photo-(2)-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Abid Jahan Apon [AJA]",
+    "designation": "Lecturer",
+    "email": "abid.jahan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/100/mr_abid_jahan_apon",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/242/conversions/IMG_8412-thumb.JPG",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Abdullah Al Nakib [ANK]",
+    "designation": "Lecturer",
+    "email": "abdullah.alnakib@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/104/mr_abdullah_al_nakib",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/130/conversions/Latest-2023-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Anika Priodorshinee Mrittika [APM]",
+    "designation": "Lecturer",
+    "email": "anika.mrittika@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/286/anika_priodorshinee_mrittika",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/692/conversions/fil-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Aniqa Tabassum [AQT]",
+    "designation": "Lecturer",
+    "email": "aniqa.tabassum@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/349/aniqa_tabassum",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/957/conversions/cropped-IMG_2305-(1)-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ayman Rasheed [ARD]",
+    "designation": "Lecturer",
+    "email": "ayman.rasheed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/120/ayman_rasheed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/848/conversions/Ayman_1050x1400-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Atanu Roy [ART]",
+    "designation": "Lecturer",
+    "email": "atanu.roy@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/222/atanu_roy",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1012/conversions/me_convo_pic-min2-3-4-zoom-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammed Ashfaqul Haque [AFQ]",
+    "designation": "Lecturer",
+    "email": "ashfaqul.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/304/mohammed_ashfaqul_haque",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ateya Ahmed Subarna [ATY]",
+    "designation": "Lecturer",
+    "email": "ateya.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/270/ateya_ahmed_subarna",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/935/conversions/IMG_3805-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Faria Binta Awal [FBAW]",
+    "designation": "Lecturer",
+    "email": "faria.awal@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/485/faria_binta_awal",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/964/conversions/Faria-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Avinandan Banerjee [AVB]",
+    "designation": "Lecturer",
+    "email": "avinandan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/107/avinandan_banerjee",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/696/conversions/FacultyProfilePhoto-AVB-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ariyan Hossain [AYO]",
+    "designation": "Lecturer",
+    "email": "ariyan.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/305/ariyan_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/552/conversions/imgonline-com-ua-resize-fWlmYOhL17-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Badrul Hossain [BDH]",
+    "designation": "Lecturer",
+    "email": "badrul.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/312/mohammad_badrul_hossain",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Dibyo Fabian Dofadar [DFD]",
+    "designation": "Lecturer",
+    "email": "fabian.dofadar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/89/mr_dibyo_fabian_dofadar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/123/conversions/9bca0dcd-4cb4-4758-9e69-72c4bcd18a67-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ehtashamul Haque [EHQ]",
+    "designation": "Lecturer",
+    "email": "ehtashamul.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/266/ehtashamul_haque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/866/conversions/Ehtashamul-Haque-Rescaled-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Fatin Ishraq Faruqui [FFR]",
+    "designation": "Lecturer",
+    "email": "md.fatin@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/227/md_fatin_ishraq_faruqui",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/725/conversions/382716541_1365837747636263_76914-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Fakhruddin Gazzali [FGZ]",
+    "designation": "Lecturer",
+    "email": "fakhruddin.gazzali@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/46/md_fakhruddin_gazzali",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/67/conversions/dsc_3481-copyjpg-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Fatiha Ishrar Chowdhury [FIC]",
+    "designation": "Lecturer",
+    "email": "fatiha.ishrar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/301/fatiha_ishrar_chowdhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/776/conversions/0eb23ec3-028e-4358-ba23-a76b6e858614-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Fardin Zubair Nafis [FZN]",
+    "designation": "Lecturer",
+    "email": "fardin.zubair@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/255/fardin_zubair_nafis",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/433/conversions/329894012_749135083212678_3162509178516727319_n-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tanhiat Fatema Afnan [TNF]",
+    "designation": "Lecturer",
+    "email": "tanhiat.fatema@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/496/tanhiat_fatema_afnan",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Majisha Jahan Disha [MAJI]",
+    "designation": "Lecturer",
+    "email": "majisha.jahan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/454/majisha_jahan_disha",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/906/conversions/PIC-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ipshita Bonhi Upoma [IBU]",
+    "designation": "Lecturer",
+    "email": "ipshita.upoma@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/259/ipshita_bonhi_upoma",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/457/conversions/PXL_20230219_123143459-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Abdullah Nayem Wasi Emran [ANWE]",
+    "designation": "Lecturer",
+    "email": "abdullah.nayem@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/438/abdullah_nayem_wasi_emran",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ahmad Farhan Shahriar Chowdhury [FARS]",
+    "designation": "Lecturer",
+    "email": "farhan.shahriar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/462/ahmad_farhan_shahriar_chowdhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/912/conversions/Ahmad-Farhan-Shahriar-Chowdhury-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Zulkar Naim [ZLNM]",
+    "designation": "Lecturer",
+    "email": "zulkar.naim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/461/md_zulkar_naim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/911/conversions/me-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Khaliduzzaman Khan Samrat [KKS]",
+    "designation": "Lecturer",
+    "email": "md.khaliduzzaman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/231/md_khaliduzzaman_khan_samrat",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/269/conversions/kks-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ms. Khondoker Nazia Iqbal [KNI]",
+    "designation": "Lecturer",
+    "email": "nazia.iqbal@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/23/ms_khondoker_nazia_iqbal",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Kazi Kamruzzaman Rabbi [KZMN]",
+    "designation": "Lecturer",
+    "email": "kazi.kamruzzaman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/407/kazi_kamruzzaman_rabbi",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/918/conversions/PXL_20240203_053807508.PORTRAIT-01-(1)-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Labib Hasan Khan [LBBH]",
+    "designation": "Lecturer",
+    "email": "labib.hasan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/221/labib_hasan_khan",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Marshia Nujhat [MAU]",
+    "designation": "Lecturer",
+    "email": "marshia.nujhat@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/173/marshia_nujhat",
+    "imageUrl": "",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Fahim [MDF]",
+    "designation": "Lecturer",
+    "email": "mohammad.fahim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/47/mohammad_fahim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/216/conversions/20220521_134912-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mehedi Hasan Emo [MHDE]",
+    "designation": "Lecturer",
+    "email": "mehedi.emo@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/260/mehedi_hasan_emo",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1022/conversions/MHDE-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Anindita Labonno [ALB]",
+    "designation": "Lecturer",
+    "email": "anindita.labonno@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/228/anindita_labonno",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1025/conversions/1000017084-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mushfique Nasir Probor [MNP]",
+    "designation": "Lecturer",
+    "email": "mushfique.nasir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/236/mushfique_nasir_probor",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/448/conversions/Screenshot-2023-12-10-202450-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Nuwaisir Rahman [MNW]",
+    "designation": "Lecturer",
+    "email": "nuwaisir.rahman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/297/mohammad_nuwaisir_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/653/conversions/338169091_1352561268856342_7527722953256633615_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Moynul Asik Moni [MOM]",
+    "designation": "Lecturer",
+    "email": "moynul.moni@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/121/md_moynul_asik_moni",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/941/conversions/1_1-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Md. Shamim Mia [MSMA]",
+    "designation": "Lecturer",
+    "email": "shamim.mia@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/215/mr_md_shamim_mia",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/646/conversions/IMG_1846.HEIC~222-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "A B M Muntasir Rahman [MUNR]",
+    "designation": "Lecturer",
+    "email": "abm.muntasir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/212/a_b_m_muntasir_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/864/conversions/180A0987-2-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "NIRJHOR DATTA [NDT]",
+    "designation": "Lecturer",
+    "email": "nirjhor.datta@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/315/nirjhor_datta",
+    "imageUrl": "",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Niloy Farhan [NLH]",
+    "designation": "Lecturer",
+    "email": "niloy.farhan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/278/niloy_farhan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/886/conversions/23341028_CS_Niloy_Farhan-Lite-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ms. Narzu Tarannum [NTR]",
+    "designation": "Lecturer",
+    "email": "narzu.tarannum@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/190/ms_narzu_tarannum",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nazmul Islam [NZU]",
+    "designation": "Lecturer",
+    "email": "nazmul.islam1@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/303/nazmul_islam",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Partha Bhoumik [PBK]",
+    "designation": "Lecturer",
+    "email": "partha.bhoumik@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/36/partha_bhoumik",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/19/conversions/partha1-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Purbayan Das [PDS]",
+    "designation": "Lecturer",
+    "email": "purbayan.das@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/88/mr_purbayan_das",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/250/conversions/6227vh7r-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Atonu Roy Chowdhury [AROY]",
+    "designation": "Lecturer",
+    "email": "atonuroy.chowdhury@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/420/atonu_roy_chowdhury",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/987/conversions/rsz_download-(1)-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Prothito Shovon Majumder [PSMD]",
+    "designation": "Lecturer",
+    "email": "prothito.shovon@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/372/prothito_shovon_majumder",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/997/conversions/504609703_4165840810359886_788074703011464452_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Quazi Ashikur Rahman [QUZA]",
+    "designation": "Lecturer",
+    "email": "quazi.ashikur@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/32/quazi_ashikur_rahman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/29/conversions/Picture_Quazi-Ashikur-Rahman-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Rakin Bin Rabbani [RBR]",
+    "designation": "Lecturer",
+    "email": "rakin.rabbani@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/203/mr_rakin_bin_rabbani",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/953/conversions/Generated-Image-October-02,-2025---12_39PM-thumb.png",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Redowanul Akbar [RDW]",
+    "designation": "Lecturer",
+    "email": "redowanul.akbar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/293/redowanul_akbar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/877/conversions/1000031513-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Imran Zahid [RHD]",
+    "designation": "Lecturer",
+    "email": "imran.zahid@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/332/imran_zahid",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Rakibul Hasan Mahin [RKBM]",
+    "designation": "Lecturer",
+    "email": "mohammad.rakibul@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/291/mohammad_rakibul_hasan_mahin",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/667/conversions/IMG_0070-(3)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Rafid Ahnaf [RFF]",
+    "designation": "Lecturer",
+    "email": "rafid.ahnaf@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/320/rafid_ahnaf",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/703/conversions/1-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Rafiad Sadat Shahir [RSS]",
+    "designation": "Lecturer",
+    "email": "rafiad.shahir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/281/rafiad_sadat_shahir",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/847/conversions/PassportPhoto-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Rifa Tasfiya [RFTS]",
+    "designation": "Lecturer",
+    "email": "rifa.tasfiya@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/390/rifa_tasfiya",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/771/conversions/WhatsApp-Image-2024-11-07-at-12.-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sadif Ahmed [SADA]",
+    "designation": "Lecturer",
+    "email": "sadif.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/448/sadif_ahmed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/972/conversions/profile-pic-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Saadat Rafid Ahmed [SADF]",
+    "designation": "Lecturer",
+    "email": "saadat.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/311/saadat_rafid_ahmed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/649/conversions/937a9ad5-1bf8-4e4a-a227-5a855822f1b0-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Farhan Faruk [FFU]",
+    "designation": "Lecturer",
+    "email": "farhan.faruk@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/368/farhan_faruk",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/836/conversions/DP-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Sabbir Hossain [SBHN]",
+    "designation": "Lecturer",
+    "email": "sabbir.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/202/md_sabbir_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/992/conversions/SDS-Cover-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "K. M. Shadman Wadith [SHDM]",
+    "designation": "Lecturer",
+    "email": "shadman.wadith@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/377/k_m_shadman_wadith",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/757/conversions/5f404e4d-d696-4842-b801-6056d06b8b8a-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Shahriar Rahman Rana [SHRR]",
+    "designation": "Lecturer",
+    "email": "shahriar.rahman@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/115/mr_shahriar_rahman_rana",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1036/conversions/desktop-wallpaper-black-high-resolution-14-solid-black-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sahib Kowsar [SHBK]",
+    "designation": "Lecturer",
+    "email": "sahib.kowsar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/224/sahib_kowsar",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/423/conversions/yyy-(3)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Hamim Ibne Nasim [HBN]",
+    "designation": "Lecturer",
+    "email": "hamim.nasim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/323/mr_hamim_ibne_nasim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/637/conversions/336744374_514804413963944_5825842436358764757_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sukarna Sarker [SUE]",
+    "designation": "Lecturer",
+    "email": "sukarna.sarkar@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/242/sukarna_sarker",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/456/conversions/Snapchat-1636393159-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Swattic Ghose [SWG]",
+    "designation": "Lecturer",
+    "email": "swattic.ghose@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/117/swattic_ghose",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/143/conversions/Swattic-Ghose-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Showvik Biswas [SWV]",
+    "designation": "Lecturer",
+    "email": "showvik.biswas@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/343/showvik_biswas",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/883/conversions/180A1133-(1)-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sazzadul Islam [SZZ]",
+    "designation": "Lecturer",
+    "email": "sazzadul.islam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/396/sazzadul_islam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/807/conversions/photo_2024-12-22_23-19-05-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tasnim Ahsan Prome [TAP]",
+    "designation": "Lecturer",
+    "email": "tasnim.ahsan@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/50/tasnim_ahsan_prome",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/708/conversions/Tasnim-Ahsan-Prome-2-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tarvir Anjum Aditto [TAV]",
+    "designation": "Lecturer",
+    "email": "tarvir.anjum@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/494/tarvir_anjum_aditto",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/986/conversions/CV-image_resized-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Tahsin Alam [THL]",
+    "designation": "Lecturer",
+    "email": "tahsin.alam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/386/mohammad_tahsin_alam",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/816/conversions/1000055935-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Tamkin Mahmud Tan [TMD]",
+    "designation": "Lecturer",
+    "email": "tamkin.mahmud@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/64/mr_tamkin_mahmud_tan",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/458/conversions/rsz_1tamkin_mahmud_tan_photo-01-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tanvir Muntakim Tonoy [TMY]",
+    "designation": "Lecturer",
+    "email": "tanvir.muntakim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/243/tanvir_muntakim_tonoy",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/296/conversions/photo-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Towshik Anam Taj [TWK]",
+    "designation": "Lecturer",
+    "email": "towshik.taj@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/290/towshik_anam_taj",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/841/conversions/20230429_173526-(1)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Umme Jannat Taposhi [UJT]",
+    "designation": "Lecturer",
+    "email": "jannat.taposhi@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/295/umme_jannat_taposhi",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/800/conversions/CSE_Umme-Jannat-Taposhi---Copy-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Utsab Saha [UTS]",
+    "designation": "Lecturer",
+    "email": "utsab.saha@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/251/utsab_saha",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/416/conversions/06b1ecc6-d1ed-484d-9df0-698cf358007e-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Zaber Mohammad [ZMD]",
+    "designation": "Lecturer",
+    "email": "zaber.mohammad@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/86/mr_zaber_mohammad",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/913/conversions/Zaber_Mohammad-removebg-preview-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Yasmin Nadia [YND]",
+    "designation": "Lecturer",
+    "email": "yasmin.nadia@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/250/yasmin_nadia",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/293/conversions/my-passport-photo-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Zayed Humayun [ZYH]",
+    "designation": "Lecturer",
+    "email": "zayed.humayun@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/314/zayed_humayun",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/691/conversions/1727710181867-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ihzaz Abrar Sadik [ZAZ]",
+    "designation": "Lecturer",
+    "email": "ihzaz.sadik@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/365/ihzaz_abrar_sadik",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/971/conversions/1000080767-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mirza Abdullah Al Noman [MAO]",
+    "designation": "Lecturer",
+    "email": "mirza.abdullah@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/216/mirza_abdullah_al_noman",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/263/conversions/Mirza-Abdullah-Al-Noman-(2)-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Muhtasim Mahmud [MTSM]",
+    "designation": "Lecturer",
+    "email": "muhtasim.mahmud@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/353/md_muhtasim_mahmud",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1031/conversions/1000046204-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ahmed Mayeesha Reza Agomoni [MZG]",
+    "designation": "Lecturer",
+    "email": "ahmed.mayeesha@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/235/ahmed_mayeesha_reza_agomoni",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/275/conversions/agopago-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Naima Tahsin Nodi [NTN]",
+    "designation": "Lecturer",
+    "email": "naima.tahsin@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/319/naima_tahsin_nodi",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/954/conversions/rsz_3image-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Pollock Nag [PLN]",
+    "designation": "Lecturer",
+    "email": "pollock.nag@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/292/pollock_nag",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1058/conversions/C870E399-5697-4CF9-AC4C-4067D2CAE35C-thumb.jpeg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Riazul Islam Rifat [RZR]",
+    "designation": "Lecturer",
+    "email": "riazul.islam@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/229/riazul_islam_rifat",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sanjida Tasnim [STNM]",
+    "designation": "Lecturer",
+    "email": "sanjida.tasnim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/381/sanjida_tasnim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/939/conversions/Screenshot-2025-08-22-at-23-56-15-BUCSE-thumb.png",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nafis Faisal [NFS]",
+    "designation": "Lecturer",
+    "email": "nafis.faisal@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/439/nafis_faisal",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/895/conversions/Nafis-Faisal-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Anika Ahmed [ANKH]",
+    "designation": "Lecturer",
+    "email": "anika.ahmed@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/415/anika_ahmed",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/853/conversions/Anika_Ahmed-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Anika Afrin [AAF]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.anika.afrin@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/239/anika_afrin",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/432/conversions/resize-1702065788195768208IMG20230208WA000701-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md. Anonto Shuvo [ANV]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.anonto.shuvo@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/356/md_anonto_shuvo",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1014/conversions/rsz_20251226_165734-v1-thumb.jpg",
+    "status": "Not Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Saif Mokarrom [FMK]",
+    "designation": "Adjunct Lecturer",
+    "email": "saif.mokarrom@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/331/md_saif_mokarrom",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/726/conversions/saif-image-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Moinul Haque [CMHQ]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.moinul.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/437/moinul_haque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/894/conversions/IMG_4577-thumb.jpeg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Kaji Sajjad Hossain [KSJ]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.sajjad.hossain@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/363/kaji_sajjad_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/956/conversions/rsz_77728b5f-3cad-4fb4-a8b8-2f65cab50b3e-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Nafis Chowdhury [CNFH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.nafis.chowdhury@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/452/nafis_chowdhury",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Sadman Sharif [CSDM]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.sadman.sharif@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/457/sadman_sharif",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1015/conversions/Sadduu-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "MD Ajmain Mahtab [CAJM]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.ajmain.mahtab@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/459/md_ajmain_mahtab",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/958/conversions/277302287_1819857581537774_8775604598210294567_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Ayon Roy [CAYR]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.ayon.roy@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/436/ayon_roy",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/898/conversions/Picsart_25-07-25_11-22-45-388-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mohammad Sayeem Sadat Hossain [MSDH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.mohammad.sayeem@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/253/mohammad_sayeem_sadat_hossain",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/826/conversions/IMG_7849-thumb.JPG",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Fardeen Bin Ibrahim [CFBB]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.fardeen.ibrahim@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/470/fardeen_bin_ibrahim",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/929/conversions/512924937_2536308553379033_7875072229755086999_n-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Farah Binta Haque [CFBH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.farah.haque@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/467/farah_binta_haque",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/921/conversions/Farah-Binta-Haque-Photo-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Masuk Ridwan Saumo [MRSO]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.masuk.saumo@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/474/masuk_ridwan_saumo",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/968/conversions/1000022478-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Mr. Sifat Tanvir [STV]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.sifat.tanvir@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/198/mr_sifat_tanvir",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/244/conversions/IMG-20230629-WA0021-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Tasnia Juha [TJH]",
+    "designation": "Adjunct Lecturer",
+    "email": "ext.tasnia.juha@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/404/tasnia_juha",
+    "imageUrl": "",
+    "status": "Accepting",
+    "badge": "U"
+  },
+  {
+    "name": "Md Ishmam Tasin [IST]",
+    "designation": "Research Assistant",
+    "email": "ishmam.tasin@bracu.ac.bd",
+    "profileUrl": "https://cse.sds.bracu.ac.bd/faculty_profile/299/md_ishmam_tasin",
+    "imageUrl": "https://cse.sds.bracu.ac.bd/storage/media/1050/conversions/Ishmam-latest-ration-3_4-thumb.jpg",
+    "status": "Accepting",
+    "badge": "U"
+  }
+]
